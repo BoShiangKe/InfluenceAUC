@@ -1,7 +1,10 @@
-# InfluenceAUC
-R package - identify influential observations through AUC and CLC
+### Description
+***InfluenceAUC*** is an R package that focuses on identifying influential observations from the perspective of model diagnostics in binary classification. The proposed methods rely on the area under the receiver operating characteristic curve (AUC) and cumulative lift chart (CLC), which indirectly facilitate the methods suitable to any classifiers with continuous outputs. The theoretical approaches evaluate the 
+influence of each observations to the overall AUC, and modified CLCs offer the existence and approximate locations of those influential cases through data visualization. 
 
+** AUC 
 
+** CLC
 
 
 
