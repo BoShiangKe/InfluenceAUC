@@ -1,7 +1,6 @@
 ## influenceAUC Package
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
 [![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
-[![Travis-CI Build Status](https://travis-ci.org/egpivo/influenceAUC.svg?branch=master)](https://travis-ci.org/egpivo/influenceAUC)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%203%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Description
