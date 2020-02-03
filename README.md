@@ -1,5 +1,11 @@
+## influenceAUC Package
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
+[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
+[![Travis-CI Build Status](https://travis-ci.org/egpivo/influenceAUC.svg?branch=master)](https://travis-ci.org/egpivo/influenceAUC)
+[![License](http://img.shields.io/badge/license-GPL%20%28%3E=%203%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
+
 ### Description
-***InfluenceAUC*** is an R package that focuses on identifying influential observations from the perspective of model diagnostics in binary classification. Most of the related research is based on the assumption that positive instances tend to have higher values, then the sources of influential cases can categorize as follows:
+***influenceAUC*** is an R package that focuses on identifying influential observations from the perspective of model diagnostics in binary classification. Most of the related research is based on the assumption that positive instances tend to have higher values, then the sources of influential cases can categorize as follows:
 + negative cases with fairly higher scores
 + positive cases with relatively lower scores
 
