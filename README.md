@@ -11,7 +11,7 @@
 The proposed methods rely on the area under the receiver operating characteristic curve (AUC) and cumulative lift chart (CLC), which indirectly facilitate the methods suitable to any classifiers with continuous score outputs. The theoretical approaches evaluate the influences of observations to the overall AUC, and adjusted CLCs offer the existence and approximate locations of those influential cases through data visualization. 
 
 ## AUC
-* **Influence function** focuses on case-deletion diagnostics with possible *masking effect* limitations.
+* **Influence function** focuses on case-deletion diagnostics with potential *masking effect* limitations.
 * **Local influence** quantifies influences of all observations simultaneously to alleviate the masking effect, but the results may be misleading due to the well-known *imbalanced data effect*.
 
 ## CLC
