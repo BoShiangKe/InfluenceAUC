@@ -8,7 +8,7 @@
 + negative cases with fairly higher scores
 + positive cases with relatively lower scores
 
-The proposed methods rely on the area under the receiver operating characteristic curve (AUC) and cumulative lift chart (CLC), which indirectly facilitate the methods suitable to any classifiers with continuous score outputs. The theoretical approaches evaluate the influences of observations to the overall AUC, and adjusted CLCs offer the existence and approximate locations of those influential cases through data visualization. Because each method may have its pros and cons, we suggest end-users to apply all of them together to reach objective results. Please see the reference for more information.  
+The proposed methods rely on the area under the receiver operating characteristic curve (AUC) and cumulative lift chart (CLC), which indirectly facilitate the methods suitable to any classifiers with continuous score outputs. The theoretical approaches evaluate the influences of observations to the overall AUC, and adjusted CLCs offer the existence and approximate locations of those influential cases through data visualization. Because each method may have its pros and cons, we suggest end-users to apply all of them together to reach reliable results. Please see the reference for more information.  
 
 ## AUC
 * **Influence function** focuses on case-deletion diagnostics with potential *masking effect* limitations.
@@ -19,10 +19,6 @@ The proposed methods rely on the area under the receiver operating characteristi
 * **Negative CLC** uncovers positive cases with relatively lower scores
 
 These modified CLCs disclose influential observations without masking and imbalanced data effects but lack *quantitative values* for further comparison. 
-
-
-
-
 
 
 ### Author
