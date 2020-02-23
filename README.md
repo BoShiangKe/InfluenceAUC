@@ -18,7 +18,10 @@ The proposed methods rely on the area under the receiver operating characteristi
 * **Positive CLC** reveals negative cases with fairly higher scores 
 * **Negative CLC** uncovers positive cases with relatively lower scores
 
-These modified CLCs disclose influential observations without masking and imbalanced data effects but lack quantitative values for further comparison. Because each method may have its pros and cons, we suggest end-users to apply all of them together to reach objective results. Please see the reference for more information.  
+These modified CLCs disclose influential observations without masking and imbalanced data effects but lack quantitative values for further comparison. 
+
+
+Because each method may have its pros and cons, we suggest end-users to apply all of them together to reach objective results. Please see the reference for more information.  
 
 
 
