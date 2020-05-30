@@ -17,7 +17,7 @@ LAUC(score, binary, threshold = 0.2, name = NULL)
 }
 \value{
 A list of objects including (1) `output`: a list of results with `AUC` (numeric), `Slope` (a list of dataframes) and `Curvature` (a list of dataframes)); (2) `rdata`: a dataframe of essential results for visualization
-(3) `thresold`: a used numeric value to distinguish influential observations from normal ones.
+(3) `threshold`: a used numeric value to distinguish influential observations from normal ones.
 }
 \description{
 Apply local influence approaches in terms of slope and curvature on the AUC to quantify the impacts of all observations simultaneously.

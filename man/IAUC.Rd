@@ -31,7 +31,7 @@ IAUC(
 }
 \value{
 A list of objects including (1) `output`: a list of results with `AUC` (numeric), `SIF` (a list of dataframes) and `DEIF` (a list of dataframes)); (2) `rdata`: a dataframe of essential results for visualization
-(3) `thresold`: a used numeric value to distinguish influential observations from normal ones; (4) `test_output`: a list of dataframes for testing result; (5) `test_data`: a dataframe of essential results for visualization
+(3) `threshold`: a used numeric value to distinguish influential observations from normal ones; (4) `test_output`: a list of dataframes for hypothesis testing result; (5) `test_data`: a dataframe of essential results in hypothesis testing for visualization
 (6) `testdiff`: a used numeric value to determine the difference in the hypothesis testing; (7) `alpha`: a used nuermic value to determine the significance level.
 }
 \description{
