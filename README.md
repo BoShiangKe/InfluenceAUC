@@ -33,3 +33,21 @@ Ke, B. S., Chiang, A. J., & Chang, Y. C. I. (2018). [Influence Analysis for the 
 
 ### License
 GPL-3
+
+### Citation
+- To cite package `influenceAUC` in publications use:
+
+  Ke B, Chang Y, Wang W (2020). _influenceAUC: Identify
+  Influential Observations in Binary Classification_. R package
+  version 0.1.2,
+  <https://CRAN.R-project.org/package=influenceAUC>.
+
+- A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {influenceAUC: Identify Influential Observations in Binary Classification},
+    author = {Bo-Shiang Ke and Yuan-chin Ivan Chang and Wen-Ting Wang},
+    year = {2020},
+    note = {R package version 0.1.2},
+    url = {https://CRAN.R-project.org/package=influenceAUC},
+  }
