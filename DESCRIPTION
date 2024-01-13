@@ -1,7 +1,7 @@
 Package: influenceAUC
 Type: Package
 Title: Identify Influential Observations in Binary Classification
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: c( 
     person("Bo-Shiang", "Ke", email = "naivete0907@gmail.com", role = c("cre", "aut", "cph")), 
     person("Yuan-chin Ivan", "Chang", email = "ycchang@sinica.edu.tw", role = "aut"), 
