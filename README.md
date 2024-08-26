@@ -1,6 +1,6 @@
 ## influenceAUC Package
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
-[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/influenceAUC)](https://CRAN.R-project.org/package=influenceAUC)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/influenceAUC?color=green)](https://cran.r-project.org/package=influenceAUC)
+[![Downloads (total)](https://cranlogs.r-pkg.org/badges/grand-total/influenceAUC?color=brightgreen)](https://www.r-pkg.org/pkg/influenceAUC)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%203%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
 [![R build status](https://github.com/egpivo/SpatPCA/workflows/R-CMD-check/badge.svg)](https://github.com/egpivo/SpatPCA/actions)
 
